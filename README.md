@@ -1,2 +1,2 @@
-# syncql
-A Firestore-inspired, middleware layer in front of your SQL db enabling local-first development
+# SyncQL
+Offline mode and query listeners with traditional SQL databases as the backing store
